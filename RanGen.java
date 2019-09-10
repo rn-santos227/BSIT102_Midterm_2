@@ -12,19 +12,19 @@ public class RanGen
 
 		System.out.print("Input player 1 name: ");
 		name[0] = sc.next();
-		dist[0] +=  30 + (Math.random()*101);
+		dist[0] +=  30 + (Math.random()*100);
 		
 		System.out.print("Input player 2 name: ");
 		name[1] = sc.next();
-		dist[1] +=  30 + (Math.random()*101);
+		dist[1] +=  30 + (Math.random()*100);
 		
 		System.out.print("Input player 3 name: ") ;
 		name[2] = sc.next();
-		dist[2] +=  30 + (Math.random()*101);
+		dist[2] +=  30 + (Math.random()*100);
 		
 		System.out.print("Input player 4 name: ");
 		name[3] = sc.next();
-		dist[3] +=  30 + (Math.random()*101);
+		dist[3] +=  30 + (Math.random()*100);
     	
     	System.out.printf("Player 1: " + name[0] + " has thrown at %.2f m\n",  dist[0]);
     	System.out.printf("Player 2: " + name[1] + " has thrown at %.2f m\n",  dist[1]);
