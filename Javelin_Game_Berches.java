@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RanGen
+public class Javelin_Game_Berches
 {
 	private static Scanner sc;
 	private static String name[] = new String[4];
