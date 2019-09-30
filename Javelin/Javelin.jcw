@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Javelin</label>
+	</settings>
+	<users>
+		<user>
+			<path>Javelin.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Javelin.jcp</path>
+		</project>
+	</projects>
+</workspace>
